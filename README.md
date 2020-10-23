@@ -29,9 +29,9 @@ has a single author and referential integrity should be maintained
 ## API endpoints 
 
 - Books (Title, subtitle, Author)
-    <pre> POST /api/book (create) <pre>
-    <pre>  /api/books/:id (read, update, delete) <pre>
+    <pre> POST /api/book (create) </pre>
+    <pre>  /api/books/:id (read, update, delete) </pre>
 
 - Author (Name, Bio, Books)
-    <pre> POST /api/author (create) <pre>
-    <pre>  /api/authors/:id (read, update, delete) <pre>
+    <pre> POST /api/author (create) </pre>
+    <pre>  /api/authors/:id (read, update, delete) </pre>
