@@ -25,7 +25,8 @@ has a single author and referential integrity should be maintained
 - Run Server (Node)
     <pre><code>npm start </code></pre>
 <br>
-# API endpoints 
+
+## API endpoints 
 
 - Books (Title, subtitle, Author)
     <pre> POST /api/book (create) <pre>
